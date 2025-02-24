@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about learnin
 
 ## 🚀 About Me
 - 💻 **Currently an Intern** working on the Liferay Marketplace Solutions team at Liferay, Inc.
-- 🎯 **Main Focus Areas:** Java, React and TypeScript.
+- 🎯 **Main Focus Areas:** JavaScript, React and TypeScript.
 - 🎓 **Studying Information Systems at UNINTER**
 - 📚 **Learning:**
   - IntelliJ IDEA commands
