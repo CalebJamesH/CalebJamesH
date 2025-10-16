@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about learnin
 - 🎯 **Main Focus Areas:** JavaScript, React and TypeScript.
 - 🎓 **Studying Information Systems at UNINTER**
 - 📚 **Learning:**
-  - IntelliJ IDEA commands
-  - Sass (Sassy CSS)
   - Java
   - How to create client extensions for Liferay DXP
 
